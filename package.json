@@ -1,0 +1,18 @@
+{
+  "name": "spoticat",
+  "version": "1.0.0",
+  "description": "SpotiCat is a dicord bot designed to help share music in your community.",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "spotify"
+  ],
+  "author": "Libra",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
